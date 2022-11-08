@@ -1,0 +1,5 @@
+Product,Data Type 
+Product_Name,varchar
+Product_cost,flot
+Product_color,varchar
+Quantity ,int

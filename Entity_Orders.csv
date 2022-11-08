@@ -1,0 +1,6 @@
+Orders,Data Type 
+Order_date,Date
+Delivery_Date,Date
+Order_Quanty,int
+Product_Type,varchar
+Total_Amount,flot

@@ -1,0 +1,6 @@
+Customer,Data Type 
+Customer_name,varchar
+Customer_Adress,varchar
+Customer_MobileNumber,int 
+Order_Type,varchar
+Order_Quanty,int 

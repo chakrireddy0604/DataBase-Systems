@@ -1,0 +1,6 @@
+Payments,Data Type 
+Total_Amount,flot
+Payment_date,Date
+Paymant_method,varchar
+Payment_Amount,flot
+Payment_Balance,flot

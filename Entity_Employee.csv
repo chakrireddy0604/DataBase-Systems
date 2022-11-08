@@ -1,0 +1,7 @@
+Employee,Data Type 
+Name,varchar
+ID,varchar
+Desgnation,varchar
+Address,varchar
+Reports_To,varchar
+Salary,int
