@@ -1,0 +1,4 @@
+Customer_name(VARCHAR),Customer_Adress(VARCHAR),Order_Quantity(INT),Order type(VARCHAR),Customer_MobileNumber(VARCHAR)
+Mary,Chicago,100,Wate Toy,9056668890
+Ramya,New York,150,Watr Ship,6309722202
+John,Washington,200,Water Ball,9192344512

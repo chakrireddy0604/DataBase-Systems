@@ -1,0 +1,4 @@
+Employee_Name ,Employee_ID,Designation ,Address,Salary ,Reports_to
+Alma,AD123,Manager,Ohio,10000,Pramod 
+Russ,DC231,Director,Denver,15000,Pramod 
+Bob,AA121,Engineer,Landon ,12000,Pramod 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Product_Color index="3">Product_Color</Product_Color>
+    <Product_Cost index="2">Product_Cost</Product_Cost>
+    <Product_Name index="1">Product_Name</Product_Name>
+    <Quantity_ index="4">Quantity </Quantity_>
+  </columns>
+  <records>
+    <record index="1">
+      <Product_Color>Red</Product_Color>
+      <Product_Cost>10</Product_Cost>
+      <Product_Name>Wate Toy</Product_Name>
+      <Quantity_>100</Quantity_>
+    </record>
+    <record index="2">
+      <Product_Color>Black</Product_Color>
+      <Product_Cost>25</Product_Cost>
+      <Product_Name>Watr Ship</Product_Name>
+      <Quantity_>150</Quantity_>
+    </record>
+    <record index="3">
+      <Product_Color>White</Product_Color>
+      <Product_Cost>20</Product_Cost>
+      <Product_Name>Water Ball</Product_Name>
+      <Quantity_>200</Quantity_>
+    </record>
+  </records>
+</data>

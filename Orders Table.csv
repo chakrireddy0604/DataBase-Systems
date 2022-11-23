@@ -1,0 +1,4 @@
+Customer ,Order_date,Delivery_Date,Order_Quanty,Product_Type,Total_Amount
+Mary ,01-01-2022,02-01-2022,100,Wate Toy,1000
+Ramya,01-01-2022,02-01-2022,150,Watr Ship,2000
+John,01-01-2022,02-01-2022,200,Water Ball,4000

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Customer_AdressVARCHAR index="2">Customer_Adress(VARCHAR)</Customer_AdressVARCHAR>
+    <Customer_MobileNumberVARCHAR index="5">Customer_MobileNumber(VARCHAR)</Customer_MobileNumberVARCHAR>
+    <Customer_nameVARCHAR index="1">Customer_name(VARCHAR)</Customer_nameVARCHAR>
+    <Order_QuantityINT index="3">Order_Quantity(INT)</Order_QuantityINT>
+    <Order_typeVARCHAR index="4">Order type(VARCHAR)</Order_typeVARCHAR>
+  </columns>
+  <records>
+    <record index="1">
+      <Customer_AdressVARCHAR>Chicago</Customer_AdressVARCHAR>
+      <Customer_MobileNumberVARCHAR>9056668890</Customer_MobileNumberVARCHAR>
+      <Customer_nameVARCHAR>Mary</Customer_nameVARCHAR>
+      <Order_QuantityINT>100</Order_QuantityINT>
+      <Order_typeVARCHAR>Wate Toy</Order_typeVARCHAR>
+    </record>
+    <record index="2">
+      <Customer_AdressVARCHAR>New York</Customer_AdressVARCHAR>
+      <Customer_MobileNumberVARCHAR>6309722202</Customer_MobileNumberVARCHAR>
+      <Customer_nameVARCHAR>Ramya</Customer_nameVARCHAR>
+      <Order_QuantityINT>150</Order_QuantityINT>
+      <Order_typeVARCHAR>Watr Ship</Order_typeVARCHAR>
+    </record>
+    <record index="3">
+      <Customer_AdressVARCHAR>Washington</Customer_AdressVARCHAR>
+      <Customer_MobileNumberVARCHAR>9192344512</Customer_MobileNumberVARCHAR>
+      <Customer_nameVARCHAR>John</Customer_nameVARCHAR>
+      <Order_QuantityINT>200</Order_QuantityINT>
+      <Order_typeVARCHAR>Water Ball</Order_typeVARCHAR>
+    </record>
+  </records>
+</data>

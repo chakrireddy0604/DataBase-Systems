@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Address index="4">Address</Address>
+    <Designation_ index="3">Designation </Designation_>
+    <Employee_ID index="2">Employee_ID</Employee_ID>
+    <Employee_Name_ index="1">Employee_Name </Employee_Name_>
+    <Reports_to index="6">Reports_to</Reports_to>
+    <Salary_ index="5">Salary </Salary_>
+  </columns>
+  <records>
+    <record index="1">
+      <Address>Ohio</Address>
+      <Designation_>Manager</Designation_>
+      <Employee_ID>AD123</Employee_ID>
+      <Employee_Name_>Alma</Employee_Name_>
+      <Reports_to>Pramod </Reports_to>
+      <Salary_>10000</Salary_>
+    </record>
+    <record index="2">
+      <Address>Denver</Address>
+      <Designation_>Director</Designation_>
+      <Employee_ID>DC231</Employee_ID>
+      <Employee_Name_>Russ</Employee_Name_>
+      <Reports_to>Pramod </Reports_to>
+      <Salary_>15000</Salary_>
+    </record>
+    <record index="3">
+      <Address>Landon </Address>
+      <Designation_>Engineer</Designation_>
+      <Employee_ID>AA121</Employee_ID>
+      <Employee_Name_>Bob</Employee_Name_>
+      <Reports_to>Pramod </Reports_to>
+      <Salary_>12000</Salary_>
+    </record>
+  </records>
+</data>

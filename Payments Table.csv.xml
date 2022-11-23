@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Customer index="1">Customer</Customer>
+    <Paymant_Date index="3">Paymant Date</Paymant_Date>
+    <Paymant_Method index="4">Paymant Method</Paymant_Method>
+    <Payment_Amount index="5">Payment_Amount</Payment_Amount>
+    <Payment_Balance index="6">Payment_Balance</Payment_Balance>
+    <Total_Amount index="2">Total_Amount</Total_Amount>
+  </columns>
+  <records>
+    <record index="1">
+      <Customer>Mary</Customer>
+      <Paymant_Date>01-01-2022</Paymant_Date>
+      <Paymant_Method>Cash</Paymant_Method>
+      <Payment_Amount>500</Payment_Amount>
+      <Payment_Balance>500</Payment_Balance>
+      <Total_Amount>1000</Total_Amount>
+    </record>
+    <record index="2">
+      <Customer>Ramya</Customer>
+      <Paymant_Date>01-01-2022</Paymant_Date>
+      <Paymant_Method>Cash</Paymant_Method>
+      <Payment_Amount>1000</Payment_Amount>
+      <Payment_Balance>1000</Payment_Balance>
+      <Total_Amount>2000</Total_Amount>
+    </record>
+    <record index="3">
+      <Customer>John</Customer>
+      <Paymant_Date>01-01-2022</Paymant_Date>
+      <Paymant_Method>Cash</Paymant_Method>
+      <Payment_Amount>2000</Payment_Amount>
+      <Payment_Balance>2000</Payment_Balance>
+      <Total_Amount>4000</Total_Amount>
+    </record>
+  </records>
+</data>
